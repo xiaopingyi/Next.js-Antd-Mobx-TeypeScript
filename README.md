@@ -2,6 +2,7 @@
 Next.js + Mobx + Ant Design + Axios + TypeScript
 
 #### 目录结构说明
+```
 ├─.babelrc     babel配置  
 ├─jsconfig.json  这里对js文件进行配置  
 ├─next-env.d.ts   
@@ -30,12 +31,5 @@ Next.js + Mobx + Ant Design + Axios + TypeScript
 |   |    └index.tsx  
 ├─config  配置文件，如api地址等
 |   └index.js  
-├─components  组件
-|     ├─layout  
-|     |   ├─index.less  
-|     |   └index.tsx  
-├─assets  
-|   └antd-custom.less  自定义antd样式  
-├─api  
-|  └test.js  
-
+├─component
+```
